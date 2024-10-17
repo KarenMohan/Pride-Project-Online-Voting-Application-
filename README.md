@@ -3,17 +3,10 @@ This Online Voting System is a secure and user-friendly online voting platform w
 
 ## Project Overview
 
-**User Registration and Login:**  
-Users can register and log in to participate in the voting.  
-Secure authentication ensures only registered users can vote.
+**User Registration and Login:** Users can register and log in to participate in the voting. Secure authentication ensures only registered users can vote.
 
-**Admin Dashboard:**  
-Admins can add, remove participants, and manage the voting process.  
-Admins can start/stop voting and publish results.
+**Admin Dashboard:** Admins can add, remove participants, and manage the voting process. Admins can start/stop voting and publish results.
 
-**Voting Mechanism:**  
-Users can vote for participants in real-time while the voting is active.  
-Each user can vote for up to 5 participants.
+**Voting Mechanism:** Users can vote for participants in real-time while the voting is active. Each user can vote for up to 5 participants.
 
-**Result Publishing:**  
-After voting ends, results can be published, showing the total votes and winner details.
+**Result Publishing:** After voting ends, results can be published, showing the total votes and winner details.
