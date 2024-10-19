@@ -12,11 +12,12 @@ This Online Voting System is a secure and user-friendly online voting platform w
 
 ## How to Use
 - **Users:**
-  1. Register an account on the homepage and Log in with your username and password.
+  1. Register an account on the homepage and log in with your username and password.
   2. Vote for up to 5 participants when voting is open.
-  3. View results once voting is closed and then Log out when finished.
+  3. View results once voting is closed and then log out when finished.
+
 - **Admins:**
   1. Log in with admin credentials.
   2. Add or remove participants from the dashboard.
-  3. Start and stop the voting process, Publish results for users to view.
+  3. Start and stop the voting process, then publish results for users to view.
   4. Log out after managing the system.
