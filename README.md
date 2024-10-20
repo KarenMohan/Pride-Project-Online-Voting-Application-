@@ -21,5 +21,5 @@
   3. Start and stop the voting process, then publish results for users to view.
   4. Log out after managing the system.
 
-![image](https://github.com/user-attachments/assets/24c76d57-30fd-45d8-a68e-223676446cf7)
+## Result
 
